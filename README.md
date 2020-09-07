@@ -1,2 +1,2 @@
-# tick_tock_pro_42
-a tick tock animation of clock
+# p5.play-boilerplate
+Boiler plate for p5.play
